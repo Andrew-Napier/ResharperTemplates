@@ -1,0 +1,163 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Description/@EntryValue">V2 Maui - Fluxor Scene</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Text/@EntryValue">## TODO:&#xD;
+1. You should alter this variable: $Scene$ to match the name you chose for the initial file.&#xD;
+2. Delete this file. &#xD;
+&#xD;
+</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/CustomProperties/=FileName/@EntryIndexedValue">$NAME$</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/CustomProperties/=Extension/@EntryIndexedValue">md</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/CustomProperties/=ValidateFileName/@EntryIndexedValue">True</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Applicability/=File/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Scope/=139FF4CE89E7094686FDA7BF5FFBBE92/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Scope/=139FF4CE89E7094686FDA7BF5FFBBE92/Type/@EntryValue">Everywhere</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Field/=Scene/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Field/=Scene/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Field/=Project/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Field/=Project/Expression/@EntryValue">getProjectName()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Field/=Project/InitialRange/@EntryValue">-1</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Field/=Project/Order/@EntryValue">1</s:Int64>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Field/=Project/InitialSection/@EntryValue">CB8B6002C5DFAE4F9A8B9381E4464622</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Field/=scene/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Field/=scene/Expression/@EntryValue">decapitalize()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Field/=scene/InitialRange/@EntryValue">-1</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Field/=scene/Order/@EntryValue">2</s:Int64>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Field/=scene/InitialSection/@EntryValue">E07E6153E82A5E4E8E91AB996581C744</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Section/=CB8B6002C5DFAE4F9A8B9381E4464622/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Section/=CB8B6002C5DFAE4F9A8B9381E4464622/LocationSelectorName/@EntryValue">manual</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Section/=CB8B6002C5DFAE4F9A8B9381E4464622/LocationSelectorConfig/@EntryValue">&lt;RelativeConfig Folder="$NAME$" File="$NAME$Page.xaml" /&gt;</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Section/=CB8B6002C5DFAE4F9A8B9381E4464622/Order/@EntryValue">0</s:Int64>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Section/=CB8B6002C5DFAE4F9A8B9381E4464622/SectionPlain/Text/@EntryValue">&lt;?xml version="1.0" encoding="utf-8" ?&gt;&#xD;
+&lt;ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"&#xD;
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"&#xD;
+             x:Class="$Project$.Scenes.$Scene$.$Scene$Page"&#xD;
+             Title="$Scene$Page"&gt;&#xD;
+    &lt;!--TODO: Replace the VerticalStackLayout with your page design--&gt;&#xD;
+    &lt;VerticalStackLayout&gt;&#xD;
+        &lt;Label &#xD;
+            Text="Welcome to .NET MAUI!"&#xD;
+            VerticalOptions="Center" &#xD;
+            HorizontalOptions="Center" /&gt;&#xD;
+    &lt;/VerticalStackLayout&gt;&#xD;
+&lt;/ContentPage&gt;</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Section/=E07E6153E82A5E4E8E91AB996581C744/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Section/=E07E6153E82A5E4E8E91AB996581C744/LocationSelectorName/@EntryValue">manual</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Section/=E07E6153E82A5E4E8E91AB996581C744/LocationSelectorConfig/@EntryValue">&lt;RelativeConfig Folder="$NAME$" File="$NAME$ViewModel.cs" /&gt;</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Section/=E07E6153E82A5E4E8E91AB996581C744/Order/@EntryValue">1</s:Int64>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Section/=E07E6153E82A5E4E8E91AB996581C744/SectionPlain/Text/@EntryValue">using CommunityToolkit.Mvvm.ComponentModel;&#xD;
+using Fluxor;&#xD;
+using IDispatcher = Fluxor.IDispatcher;&#xD;
+&#xD;
+&#xD;
+namespace $Project$.Scenes.$Scene$;&#xD;
+&#xD;
+// TODO: Register the view amd view model with the DI:&#xD;
+// EXAMPLE:&#xD;
+// builder.Services.AddTransient&lt;$Scene$Page&gt;();&#xD;
+// builder.Services.AddTransient&lt;$Scene$ViewModel&gt;();&#xD;
+// TODO: Register the view with its route in AppShell.xaml.cs&#xD;
+// EXAMPLE:&#xD;
+// Routing.RegisterRoute(nameof($Scene$Page), typeof($Scene$Page));&#xD;
+public partial class $Scene$ViewModel : ObservableObject&#xD;
+{&#xD;
+    // Viewmodel/view binding:&#xD;
+    //EXAMPLE: [ObservableProperty] private int _index;&#xD;
+&#xD;
+    // Fluxor flow control:&#xD;
+    private readonly IDispatcher _dispatcher;&#xD;
+    private IState&lt;$Scene$State&gt; _$scene$State;&#xD;
+&#xD;
+    public $Scene$ViewModel(IDispatcher dispatcher, IState&lt;$Scene$State&gt; $scene$State)&#xD;
+    {&#xD;
+        _dispatcher = dispatcher;&#xD;
+        _$scene$State = $Scene$State;&#xD;
+&#xD;
+        _$scene$State.StateChanged += $Scene$State_StateChanged;&#xD;
+    }&#xD;
+&#xD;
+    private void $Scene$State_StateChanged(object? sender, EventArgs e)&#xD;
+    {&#xD;
+        MainThread.BeginInvokeOnMainThread(() =&gt;&#xD;
+        {&#xD;
+            // UI updates should run on the main thread&#xD;
+            // Update bound variables based on received state.&#xD;
+            //EXAMPLE: Index = _$scene$State.Value.index;&#xD;
+        });&#xD;
+    }&#xD;
+&#xD;
+    // TODO: Add RelayCommand methods for Commands that appear on the view.&#xD;
+    //EXAMPLE:&#xD;
+    //[RelayCommand]&#xD;
+    //public void IncrementIndex()&#xD;
+    //{&#xD;
+    //    _dispatcher.Dispatch(new $Scene$Actions.Action());&#xD;
+    //}&#xD;
+}&#xD;
+&#xD;
+// Action classes for actions that can be invoked by this ViewModel.&#xD;
+public class $Scene$Actions&#xD;
+{&#xD;
+    // TODO: Add sub-classes for each action required of the scene.&#xD;
+    //Eg: public class Action {}&#xD;
+}</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Section/=780273E4DA5A814885791A15A4769BA5/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Section/=780273E4DA5A814885791A15A4769BA5/LocationSelectorName/@EntryValue">manual</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Section/=780273E4DA5A814885791A15A4769BA5/LocationSelectorConfig/@EntryValue">&lt;RelativeConfig Folder="$NAME$" File="$NAME$Page.xaml.cs" /&gt;</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Section/=780273E4DA5A814885791A15A4769BA5/Order/@EntryValue">2</s:Int64>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Section/=780273E4DA5A814885791A15A4769BA5/SectionPlain/Text/@EntryValue">namespace $Project$.Scenes.$Scene$;&#xD;
+&#xD;
+public partial class $Scene$Page : ContentPage&#xD;
+{&#xD;
+    public $Scene$Page($Scene$ViewModel vm)&#xD;
+    {&#xD;
+        InitializeComponent();&#xD;
+        BindingContext = vm;&#xD;
+    }&#xD;
+}</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Section/=7AB74CF851AC4440A602F0B1EFEDA3F2/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Section/=7AB74CF851AC4440A602F0B1EFEDA3F2/LocationSelectorName/@EntryValue">manual</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Section/=7AB74CF851AC4440A602F0B1EFEDA3F2/LocationSelectorConfig/@EntryValue">&lt;RelativeConfig Folder="$NAME$" File="$NAME$State.cs" /&gt;</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Section/=7AB74CF851AC4440A602F0B1EFEDA3F2/Order/@EntryValue">3</s:Int64>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Section/=7AB74CF851AC4440A602F0B1EFEDA3F2/SectionPlain/Text/@EntryValue">using Fluxor;&#xD;
+&#xD;
+namespace $Project$.Scenes.$Scene$;&#xD;
+&#xD;
+// State classes/records should be immutable and contain all stateful information about the scene&#xD;
+// You can use the Primary Constructor syntax if you wish!&#xD;
+[FeatureState]&#xD;
+public record $Scene$State&#xD;
+{&#xD;
+    private $Scene$State()&#xD;
+    {&#xD;
+        // States require a parameter-less constructor to allow for their initial construction&#xD;
+    }&#xD;
+}</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Section/=64019C402559A240BB85B8C7E9745E61/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Section/=64019C402559A240BB85B8C7E9745E61/LocationSelectorName/@EntryValue">manual</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Section/=64019C402559A240BB85B8C7E9745E61/LocationSelectorConfig/@EntryValue">&lt;RelativeConfig Folder="$NAME$" File="$NAME$StateProducers.cs" /&gt;</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Section/=64019C402559A240BB85B8C7E9745E61/Order/@EntryValue">4</s:Int64>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=ECA10A4055E8C84DA9CD8D7C863BD6E5/Section/=64019C402559A240BB85B8C7E9745E61/SectionPlain/Text/@EntryValue">using Fluxor;&#xD;
+using Dispatcher = Fluxor.Dispatcher;&#xD;
+&#xD;
+namespace $Project$.Scenes.$Scene$;&#xD;
+&#xD;
+// StateProducers take actions and either:&#xD;
+// - Produce new state based on the action (REDUCERS)&#xD;
+// - Produce a new action after performing an operation based on an incoming action (EFFECTS) - think "async"&#xD;
+public class $Scene$StateProducers&#xD;
+{&#xD;
+    // TODO: Add reducers:&#xD;
+    //[ReducerMethod]&#xD;
+    //public static $Scene$State ReduceSomeAction($Scene$State state, Action action) =&gt; state with somethingchanged;&#xD;
+&#xD;
+    // TODO: Add effects:&#xD;
+    //[EffectMethod]&#xD;
+    //public static async Task PerformAction(Action action, Dispatcher dispatcher)&#xD;
+    //{&#xD;
+    //    await Task.Delay(0);&#xD;
+    //    dispatcher.Dispatch(new ActionResult);&#xD;
+    //}&#xD;
+}</s:String></wpf:ResourceDictionary>
